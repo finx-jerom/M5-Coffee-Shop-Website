@@ -167,7 +167,7 @@ margin: 50px;
         width: 100%;
         margin-left: 0;
         gap: 5px;
-        margin-top: -190px;
+        margin-top: -90px;
         
     }
 
@@ -219,13 +219,13 @@ margin: 50px;
 
     .subDiv{
        
-        width:1000px;
+        width:400px;
         height: 800px;
         margin-top: 90px;
         margin-left: 1px;
         margin-right: 1px
         border-radius: 10px;
-        margin-top: 90px;
+        margin-top: 190px;
         }
         body {
             background-color: #381f05;
