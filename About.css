@@ -155,7 +155,7 @@ video {
         width: 100%;
         margin-left: 0;
         gap: 5px;
-        margin-top: -110px;
+        margin-top: -140px;
         
     }
 
@@ -180,7 +180,7 @@ video {
     .logo {
         width: 80px;
         height: 80px;
-        margin-top: 50px;
+        margin-top: 70px;
         margin-left: 10px;
     }
 
@@ -206,7 +206,7 @@ video {
 
 
     .picture {
-        width: 183px;  /* Set a fixed width for the image */
+        width: 178px;  /* Set a fixed width for the image */
         height: 250px;  /* Set a fixed height for the image */
         object-fit: cover;  /* Ensure the image covers the entire area */
         
@@ -227,29 +227,27 @@ video {
         width: 200px;
         text-align: center;
         margin-top: 20px;
-        margin-left: 95px;
+        margin-left: 65px;
     }
 
 
     .content {
         border-radius: 10%;
         height: 1200px;
-        width: 400px;
+        width: 320px;
         background-color: rgba(255, 254, 254, 0.815);
-        margin-top: 900px;
-        margin-left: 10px;
-        margin-right:10px;
+        margin-top: 500px;
+        margin-left: 20px;
     }
 
 
     .subp {
-        width: 200px;
-        height: 600px;
+        width: 250px;
         font-size: 20px;
         font-weight: 400;
         color: #000000;
         text-align: center;
-        margin-left: 80px;
+        margin-left: 40px;
     
     }
 
