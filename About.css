@@ -206,7 +206,7 @@ video {
 
 
     .picture {
-        width: 180px;  /* Set a fixed width for the image */
+        width: 185px;  /* Set a fixed width for the image */
         height: 250px;  /* Set a fixed height for the image */
         object-fit: cover;  /* Ensure the image covers the entire area */
         
@@ -242,7 +242,8 @@ video {
 
 
     .subp {
-        width: 300px;
+        width: 200px;
+        height: 600px;
         font-size: 20px;
         font-weight: 400;
         color: #000000;
