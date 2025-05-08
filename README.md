@@ -7,6 +7,8 @@ It will helps M5 Cofffee to reach more customers, improve convenience, and build
 ## Permission: 
 This project was developed with authorized consent from M5 Coffee, as documented in a formal letter signed by the company's Founder
 , and all use of the brand name, logo, and related assets is strictly for academic purposes.
+
+
 ![Image](https://github.com/user-attachments/assets/4b3b7d5b-12e4-4279-b13c-dbb94a4fcef7)
 
 ## Documentary:  
@@ -14,10 +16,11 @@ https://drive.google.com/file/d/1ePds378YbSb4NquLMhwN83lYWpW5I7pW/view?usp=drive
 
 
 ## Team member:
-+ Ruelo, Jerom A.
-+ Molina, John Paul S.
-+ Santos, Elijah Alexis P.
-+ Trinidad, Eunice C.
++ Ruelo, Jerom A. - Leader/Front-End Developer
++ Molina, John Paul S. - Graphic Designer
++ Trinidad, Eunice C. - Content Editor/Data Collection
++ Santos, Elijah Alexis P. - Tester/Documentation-Vlog
+
 
 ## Language Used:
 + HTML
