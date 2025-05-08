@@ -206,7 +206,7 @@ video {
 
 
     .picture {
-        width: 186px;  /* Set a fixed width for the image */
+        width: 183px;  /* Set a fixed width for the image */
         height: 250px;  /* Set a fixed height for the image */
         object-fit: cover;  /* Ensure the image covers the entire area */
         
@@ -249,7 +249,7 @@ video {
         font-weight: 400;
         color: #000000;
         text-align: center;
-        margin-left: 40px;
+        margin-left: 80px;
     
     }
 
