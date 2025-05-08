@@ -180,7 +180,7 @@ video {
     .logo {
         width: 80px;
         height: 80px;
-        margin-top: 30px;
+        margin-top: 50px;
         margin-left: 10px;
     }
 
@@ -206,7 +206,7 @@ video {
 
 
     .picture {
-        width: 213px;  /* Set a fixed width for the image */
+        width: 180px;  /* Set a fixed width for the image */
         height: 250px;  /* Set a fixed height for the image */
         object-fit: cover;  /* Ensure the image covers the entire area */
         
