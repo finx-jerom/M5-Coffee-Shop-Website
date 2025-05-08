@@ -30,5 +30,7 @@ https://drive.google.com/file/d/1ePds378YbSb4NquLMhwN83lYWpW5I7pW/view?usp=drive
 ## Course Information
 + Course Code: WS101 – Web System
 + Instructor: Marsha Superio Lintag
-Term: Second Semester, A.Y. 2024–2025
++ Term: Second Semester, A.Y. 2024–2025
 
+## Notes
+This project is solely intended for academic purposes and is not officially affiliated with **M5 Coffee** in any commercial or operational capacity.
