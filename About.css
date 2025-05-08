@@ -1,0 +1,254 @@
+nav{
+    margin: 0;
+    object-fit: cover;
+    position: absolute;
+}
+
+
+
+
+.logo {
+    width: 150px; 
+    height: 150px; 
+    margin: 23px 0 0 32px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 40px;
+    object-fit: cover;
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px;
+}
+
+.laman {
+    display: flex;
+    gap: 10px 50px;
+    justify-content: flex-end;
+    width: 710px;
+    padding: 10px;
+    margin-top: -150px;
+    margin-left: 462px;
+}
+
+.V1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top bottom;
+    object-fit: cover;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bot {
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.bot:hover {
+    background-color: #f0f0f0;
+    color: #000;
+    border-radius: 5px;
+}
+
+.bot:active {
+    background-color: #ccc;
+    color: #000;
+}
+
+.us {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+    width: 500px;
+    margin-left: 150px;
+    padding-top: 60px;
+}
+
+
+
+.A-header {
+    background-color: #4d2f0c;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+.myText {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+.row-picture { 
+    position: absolute;  /* Position relative to parent */
+    display: grid;  /* Use flexbox for layout */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;  /* Three columns */
+    margin-top: 594px;  /* Add some space above the row */
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  
+   
+}
+
+.picture {
+    width: 251px;  /* Set a fixed width for the image */
+    height: 251px;  /* Set a fixed height for the image */
+    object-fit: cover;  /* Ensure the image covers the entire area */
+    
+}
+
+.content {
+    border-radius: 10%;
+    height: 600px;
+    width: 800px;
+    background-color: rgba(255, 254, 254, 0.815);
+    margin-top: 700px;
+    margin-left: 250px;
+}
+
+.subp {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+    width: 500px;
+    margin-left: 150px;
+    padding-top: 0px;
+ 
+
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .A-header {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .laman {
+        display: flex;
+        flex-direction: flex-start;
+        align-items: center;
+        width: 100%;
+        margin-left: 0;
+        gap: 5px;
+        margin-top: -110px;
+        
+    }
+
+    .video {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .V1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 50%;
+        z-index: -1;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top bottom;
+    }
+
+    .logo {
+        width: 80px;
+        height: 80px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    .bot {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+
+
+    .myText {
+        font-size: 18px;
+        
+    }
+
+
+    .display-1, .display-2 {
+        font-size: 30px;
+        width: 100%;
+        padding-top: 50px;
+        margin-top: 50px;
+    }
+
+
+    .picture {
+        width: 213px;  /* Set a fixed width for the image */
+        height: 250px;  /* Set a fixed height for the image */
+        object-fit: cover;  /* Ensure the image covers the entire area */
+        
+    }
+
+
+    .row-picture { 
+        position: absolute;  /* Position relative to parent */
+        display: grid;  /* Use flexbox for layout */
+        grid-template-columns: 1fr 1fr ;  /* Three columns */
+        margin-top:  254px;  /* Add some space above the row */
+        left: 0px;
+        top: 0px;
+    }
+
+
+    .us {
+        width: 200px;
+        text-align: center;
+        margin-top: 20px;
+        margin-left: 95px;
+    }
+
+
+    .content {
+        border-radius: 10%;
+        height: 900px;
+        width: 385px;
+        background-color: rgba(255, 254, 254, 0.815);
+        margin-top: 900px;
+        margin-left: 20px;
+    }
+
+
+    .subp {
+        width: 300px;
+        font-size: 20px;
+        font-weight: 400;
+        color: #000000;
+        text-align: center;
+        margin-left: 40px;
+    
+    }
+
+}
