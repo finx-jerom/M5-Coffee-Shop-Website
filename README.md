@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1ePds378YbSb4NquLMhwN83lYWpW5I7pW/view?usp=drive
 +  CSS
 
 ## Course Information
-Course Code: WS101 – Web System
-Instructor: M. Lintag
++ Course Code: WS101 – Web System
++ Instructor: Marsha Superio Lintag
 Term: Second Semester, A.Y. 2024–2025
 
